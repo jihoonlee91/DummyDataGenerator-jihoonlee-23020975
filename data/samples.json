@@ -1,0 +1,37 @@
+[
+  {
+    "sample_id": "S-001",
+    "name": "GaN 에피택셜-4인치",
+    "avg_process_time": 0.22,
+    "yield_rate": 0.81,
+    "stock": 114
+  },
+  {
+    "sample_id": "S-002",
+    "name": "SiC 파워기판-6인치",
+    "avg_process_time": 0.79,
+    "yield_rate": 0.91,
+    "stock": 456
+  },
+  {
+    "sample_id": "S-003",
+    "name": "GaN 에피택셜-4인치",
+    "avg_process_time": 0.67,
+    "yield_rate": 0.76,
+    "stock": 47
+  },
+  {
+    "sample_id": "S-004",
+    "name": "포토레지스트-PR7",
+    "avg_process_time": 0.39,
+    "yield_rate": 0.89,
+    "stock": 287
+  },
+  {
+    "sample_id": "S-005",
+    "name": "포토레지스트-PR7",
+    "avg_process_time": 0.77,
+    "yield_rate": 0.91,
+    "stock": 214
+  }
+]
